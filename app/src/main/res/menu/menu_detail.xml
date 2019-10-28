@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.syamhad.katalogfilm.DetailActivity">
+    <item
+        android:id="@+id/addtoFav"
+        android:enabled="true"
+        android:icon="@drawable/love"
+        android:title="Item"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/delFav"
+        android:enabled="true"
+        android:icon="@drawable/unlove"
+        android:title="Item"
+        android:visible="false"
+        app:showAsAction="always" />
+</menu>

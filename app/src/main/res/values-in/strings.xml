@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="str_movies">Film</string>
+    <string name="str_tvshow">Acara TV</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="nodata">Tidak ada data!</string>
+    <string name="addfav">Ditambahkan ke favorit!</string>
+    <string name="delfav">Dihapus dari favorit!</string>
+    <string name="failed">Operasi gagal!</string>
+    <string name="language">Bahasa</string>
+    <string name="rate">Nilai</string>
+    <string name="release">Rilis</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="change_notif">Pengaturan Pemberitahuan</string>
+    <string name="empty_text">TIDAK ADA DATA</string>
+    <string name="is_daily">Pemberitahuan Harian</string>
+    <string name="is_release">Rilis Hari Ini</string>
+</resources>

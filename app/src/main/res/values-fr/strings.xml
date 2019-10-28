@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catalogue de film</string>
+    <string name="action_settings">Réglages</string>
+    <string name="change_language">Changer de langue</string>
+    <string name="str_movies">Films</string>
+    <string name="str_tvshow">Émissions de télévision</string>
+    <string name="title_activity_detail">Détail</string>
+    <string name="nodata">Aucune donnée à montrer!</string>
+    <string name="addfav">Ajouté aux favoris!</string>
+    <string name="delfav">Supprimé de favorit!</string>
+    <string name="failed">L\'opération a échoué!</string>
+    <string name="language">La langue</string>
+    <string name="rate">Taux</string>
+    <string name="release">Libération</string>
+    <string name="add_widget">Ajouter un widget</string>
+    <string name="appwidget_text">Films préférés</string>
+    <string name="change_notif">Paramètre de notification</string>
+    <string name="empty_text">PAS DE DONNÉES</string>
+    <string name="is_daily">Notification quotidienne</string>
+    <string name="is_release">Sortie aujourd\'hui</string>
+</resources>
